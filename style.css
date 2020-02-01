@@ -46,7 +46,7 @@ body{
 select{
     border-radius: 5px;
     height: 25px;
-    width: 250px;
+    width: 350px;
     background-color: rgb(25,25,25);
     border: none;
     color: white;
@@ -68,6 +68,7 @@ textarea{
 
 .scriptBox{
     font-size: 10px;
+    height: 100px;
 }
 
 .center-div
