@@ -57,8 +57,8 @@ textarea{
     font-family: 'Courier Prime', sans-serif;
     font-size: 10px;
     margin: 5px;
-    width: 245px;
-    height: 95px;
+    width: 345px;
+    height: 195px;
     resize: none;
     border-radius: 5px;
     background-color: rgb(25,25,25);
@@ -78,8 +78,8 @@ textarea{
   right: 0;
   bottom: 0;
   left: 0;
-  width: 260px;
-  height: 258px;
+  width: 360px;
+  height: 358px;
   background-color: rgb(231, 231, 231);
   background-blend-mode: 0.8;
   border-radius: 5px;
