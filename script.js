@@ -18,12 +18,14 @@ wait(0.1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(_[2].X, _[2].Y, _[2].Z)
 end
 `;
+    } else if (strUser == "All - Universal Aimbot"){
+        strUser = `
+loadstring(game:HttpGet("https://pastebin.com/raw/XmBUqK4d"))()
+`
     }
 
     document.getElementById('scriptBox').innerHTML = strUser;
 }
-    
 
-console.log("Test")
 notEmpty()
 document.getElementById("ceirmeoirce").onchange = notEmpty;
