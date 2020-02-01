@@ -58,7 +58,7 @@ textarea{
     font-size: 10px;
     margin: 5px;
     width: 345px;
-    height: 195px;
+    height: 95px;
     resize: none;
     border-radius: 5px;
     background-color: rgb(25,25,25);
@@ -68,7 +68,6 @@ textarea{
 
 .scriptBox{
     font-size: 10px;
-    height: 100px;
 }
 
 .center-div
